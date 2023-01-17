@@ -60,7 +60,7 @@ function landingPage() {
               </button>
             </a>
             {/* </Link> */}
-            <img src='0001-0210.gif' className={Classes.div1_img} />
+            <img src='Frame.svg' className={Classes.div1_img} />
           </Fade>
         </div>
 
